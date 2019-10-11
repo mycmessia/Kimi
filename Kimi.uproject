@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.23",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+    {
+      "Name": "Kimi",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "KimiTests",
+      "Type": "Runtime",
+      "LoadingPhase":  "Default"
+    }
+	]
+}
